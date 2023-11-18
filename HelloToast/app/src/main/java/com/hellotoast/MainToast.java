@@ -57,7 +57,7 @@ public class MainToast extends AppCompatActivity {
         }
 
         long fibCurrent;
-        if (count == 0 || count == 0) {
+        if (count == 0) {
             fibCurrent = 1;
         } else {
             fibCurrent = fibNMinus1 + fibNMinus2;
