@@ -254,4 +254,9 @@ public void back1(View view) {
 
 ## Output
 
-Soon
+![Output 1](./images/Output%201.png)
+![Output 2](./images/Output%202.png)
+
+---
+
+## Sekian, terimakasih.
